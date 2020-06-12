@@ -48,7 +48,7 @@ The dataset can be found at the following links: https://zenodo.org/record/38708
 
 More information about the TAU-NIGENS Spatial Sound Events 2020 dataset can be found in the following paper. 
 
-> Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019).  [The MTG-Jamendo Dataset for Automatic Music Tagging](http://mtg.upf.edu/node/3957). Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
+> Politis, Archontis, Sharath Adavanne, and Tuomas Virtanen. "A Dataset of Reverberant Spatial Sound Scenes with Moving Sources for Sound Event Localization and Detection." arXiv preprint arXiv:2006.01919 (2020).
 
 
 ## Author 
