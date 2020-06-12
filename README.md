@@ -19,7 +19,7 @@ Results on developments dataset are evaluated considering the evaluation metrics
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
-This repository consists of two Jupyter Notebooks scripts which need to be run separately. 
+This repository consists of two Jupyter Notebooks which need to be run separately. 
 The first notebook to run is XXX, which is the script allowing the featur extraction. 
 Afterwards, the notebook YYY should be run in order to train the network and evaluate the system.  
 
