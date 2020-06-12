@@ -9,7 +9,9 @@ Results on developments dataset are evaluated considering the evaluation metrics
 
 [1]: http://dcase.community/challenge2020/task-sound-event-localization-and-detection 
 [2]: Adavanne, Sharath, et al. "Sound event localization and detection of overlapping sources using convolutional recurrent neural networks." IEEE Journal of Selected Topics in Signal Processing 13.1 (2018): 34-48.
+
 [3]: Mazzon, L., et al. "Sound event localization and detection using FOA domain spatial augmentation." Proc. of the 4th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE). 2019.
+
 [4]: Mesaros, Annamaria, et al. "Joint Measurement of Localization and Detection of Sound Events." 2019 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). IEEE, 2019.
 
 ## Getting Started
