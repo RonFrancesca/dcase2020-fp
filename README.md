@@ -11,6 +11,9 @@ More information about the DCASE 2020 Challenge can be found at [1].
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
+This repository consists of two Jupyter Notebooks scripts which need to be run separately. 
+The first notebook to run is XXX, which is the script allowing the featur extraction. 
+Afterwards, the notebook YYY should be run in order to train the network and evaluate the system.  
 
 The following modules are necessary to run the notebook: numpy, tensorflow, json, sklearn, matplotlib, librosa, scipy.
 
