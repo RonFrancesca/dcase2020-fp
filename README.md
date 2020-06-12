@@ -38,7 +38,7 @@ Once the notebook is installed, open it from google colab and follow the instruc
 
  
 
-## DATASET 
+## Dataset
 
 TAU-NIGENS Spatial Sound Events 2020 dataset has been used to evaluate the model. 
 Two formats of TAU-NIGENS Spatial Sound Events 2020 are provided for DCASE 2020 task 3:  First Order Ambisonic (FOA) and 4 channels from a Microphone Array (MIC). This system only use Ambisonic format.
