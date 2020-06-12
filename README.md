@@ -2,7 +2,7 @@
 
 This work report the system submitted to the DCASE 2020 Challenge Task 3: Sound Event Localization and Detection. The algorithm consists of a CRNN using dense rectangular filters specialized on recognize significant frequency features related to the task. In order to further improve the score and to generalize the system performance to unseen data, the training dataset size has been increased using data augmentation based on channel rotations and reflection on the xy plane in the First Order Ambisonic domain, which allow to improve Direction of Arrival labels keeping the physical relationships between channels. Evaluation results on the cross-validation development dataset show that the proposed system outperforms the baseline results, considerably improving Error Rate and F-score for location-aware detection.
 
-More information about the challenge can be foun at [1].
+More information about the challenge can be found at [1].
 
 [1]: http://dcase.community/challenge2020/task-sound-event-localization-and-detection
 
