@@ -12,11 +12,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The following modules are necessary to run the notebook: numpy, essentia-tensorflow, json, sklearn, matplotlib and seaborn.
+The following modules are necessary to run the notebook: numpy, tensorflow, json, sklearn, matplotlib, librosa, scipy.
 
 All the modules will be directly imported running the notebook.
 
-Essentia will be installed directly running the notebook.
 
 ## Open the notebok in Google Colab
 
@@ -33,34 +32,28 @@ It contains a Google Colab notebook, please read the Notebook instruction to pro
 
 Command to clone the repository:
 ```
-$ git clone https://github.com/RonFrancesca/AnalysisEssentiamodels-MTGJamendodataset.git
+$ git clone https://github.com/RonFrancesca/dcase2020-task3-fp.git
 ```
 Once the notebook is installed, open it from google colab and follow the instruction to configure it correctly. 
 
-## MTG jamendo annotator 
+ 
 
-More information about MTG jamendo annotator, how to configure it and run it can be found at the following link: https://github.com/MTG/mtg-jamendo-annotator. 
+## DATASET 
 
-## DCASE Challenge 2020 - Sound Event Localization and Detection
+TAU-NIGENS Spatial Sound Events 2020 dataset has been used to evaluate the model. 
+Two formats of TAU-NIGENS Spatial Sound Events 2020 are provided for DCASE 2020 task 3:  First Order Ambisonic (FOA) and 4 channels from a Microphone Array (MIC). This system only use Ambisonic format.
 
-The dataset can be found at the following links: https://github.com/MTG/mtg-jamendo-dataset
 
-More information about the MTG jamendo dataset can be found in the following paper. 
+The dataset can be found at the following links: https://zenodo.org/record/3870859#.XuOtWWozadY. 
+
+More information about the TAU-NIGENS Spatial Sound Events 2020 dataset can be found in the following paper. 
 
 > Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019).  [The MTG-Jamendo Dataset for Automatic Music Tagging](http://mtg.upf.edu/node/3957). Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
-
-## Tenworflow models for Essentia 
-
-The models used for this work can be downlaoded at the following link: https://mtg.github.io/essentia-labs/news/2020/01/16/tensorflow-models-released/. 
-For this work, two tasks have been examinated (mood and miscellanous). 
-The following models have been considered: 
-- Mood task: MusiCNN_MSD and VGGish_AudioSet
-- Miscellanous task: MusiCNN_MSD and VGGish_AudioSet
-
-Download and save them the inside a folder in Google Drive which will be mounted from the notebook in Google Colab
 
 
 ## Author 
 - Francesca Ronchini
+- Andrés Pérez López
+- Daniel Arteaga
 
 
