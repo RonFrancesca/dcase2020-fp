@@ -30,10 +30,11 @@ All the modules will be directly imported running the notebook.
 
 ## Open the notebok in Google Colab
 
-The two notebooks can be directly open from Google Colab: 
-FIRST: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/Feature_Extraction.ipynb)
+The two notebooks can be directly open from Google Colab:
 
-SECOND: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/TFr_5CNN_1x48.ipynb)
+Feature_Extraction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/Feature_Extraction.ipynb)
+
+TFr_5CNN_1x48: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/TFr_5CNN_1x48.ipynb)
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
