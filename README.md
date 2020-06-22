@@ -32,7 +32,7 @@ All the modules will be directly imported running the notebook.
 
 The two notebooks can be directly open from Google Colab: 
 FIRST: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/Feature_Extraction.ipynb)
-SECOND: XXX
+SECOND: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/TFr_5CNN_1x48.ipynb)
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
@@ -55,6 +55,7 @@ Once the notebook is installed, open it from google colab and follow the instruc
 
 TAU-NIGENS Spatial Sound Events 2020 dataset has been used to evaluate the model. 
 Two formats of TAU-NIGENS Spatial Sound Events 2020 are provided for DCASE 2020 task 3:  First Order Ambisonic (FOA) and 4 channels from a Microphone Array (MIC). This system only use Ambisonic format.
+
 
 
 The dataset can be found at the following links: https://zenodo.org/record/3870859#.XuOtWWozadY. 
