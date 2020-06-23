@@ -14,6 +14,8 @@ Results on developments dataset are evaluated considering the evaluation metrics
 
 [4]: Mesaros, Annamaria, et al. "Joint Measurement of Localization and Detection of Sound Events." 2019 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA). IEEE, 2019.
 
+More informations regarding the system implementation and evaluation can be found on the technical report at: https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/Ronchini_UPF_task3.technical_report.pdf
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
