@@ -20,8 +20,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 This repository consists of two Jupyter Notebooks which need to be run separately. 
-The first notebook to run is XXX, which is the script allowing the featur extraction. 
-Afterwards, the notebook YYY should be run in order to train the network and evaluate the system.  
+The first notebook to run is *Feature_Extraction.ipynb*, which is the script allowing the featur extraction. 
+Afterwards, the notebook *TFr_5CNN_1X48.ipynb* should be run in order to train the network and evaluate the system.  
 
 The following modules are necessary to run the notebook: numpy, tensorflow, json, sklearn, matplotlib, librosa, scipy.
 
