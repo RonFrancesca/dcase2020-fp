@@ -41,7 +41,7 @@ TFr_5CNN_1x48: [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
-The systemt implementation in this jupyter notebook uses rectangular filters of shape 1x48. 
+The system implemented in this jupyter notebook uses rectangular filters of shape 1x48. 
 The user can change and test different shapes changing the filter dimension in the funcion *get_model* in the TFr_5CNN_1X48. 
 
 All the data used in this work have been stored in Goodle Drive, so they can be mount directly from the notebook. 
