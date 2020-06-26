@@ -20,6 +20,7 @@ More informations regarding the system implementation and evaluation can be foun
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
+
 ### Prerequisites
 This repository consists of two Jupyter Notebooks which need to be run separately. 
 The first notebook to run is *Feature_Extraction.ipynb*, allowing the features extraction. 
@@ -39,6 +40,9 @@ Feature_Extraction: [![Open In Colab](https://colab.research.google.com/assets/c
 TFr_5CNN_1x48: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/RonFrancesca/dcase2020-task3-fp/blob/master/TFr_5CNN_1x48.ipynb)
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
+
+The systemt implementation in this jupyter notebook uses rectangular filters of shape 1x48. 
+the user chan change and test different shape in the funcion *get_model* in the TFr_5CNN_1X48. 
 
 All the data used in this work have been stored in Goodle Drive, so they can be mount directly from the notebook. 
 
